@@ -1,4 +1,4 @@
-rom queue import PriorityQueue
+from queue import PriorityQueue
 
 class Graph:
     def __init__(self):
